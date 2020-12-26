@@ -1,4 +1,4 @@
-# Offline Judge（假的OJ
+# Offline Judge for CS101
 用途：如果你写了个OJ的题目，但是一直runtime error，你手头刚好又有很多测试数据，那用这个就对啦
 
 **目前仅支持Python**
@@ -18,4 +18,4 @@
 ## 问题
 1. 似乎只能测出WA，这样看没什么鸟用，一时兴起就写了。
 
-initiated on 20/12/08
+initiated on 2020/12/08
